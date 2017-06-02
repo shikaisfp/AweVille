@@ -1,0 +1,112 @@
+1
+Sheriff
+Sheriff description
+1
+1
+4
+0
+0
+2
+Lookout
+Lookout description
+1
+1
+4
+0
+0
+3
+Veteran
+Veteran description
+1
+2
+2
+0
+1
+4
+Doctor
+Doctor description
+1
+4
+4
+0
+0
+5
+Escort
+Escort description
+1
+3
+1
+0
+0
+6
+Medium
+Medium description
+1
+3
+4
+0
+0
+7
+Godfather
+Godfather description
+2
+2
+2
+0
+1
+8
+Mafioso
+Mafioso description
+2
+2
+4
+0
+1
+9
+Framer
+Framer description
+2
+5
+4
+0
+0
+10
+Consort
+Consort description
+2
+3
+1
+0
+1
+11
+Jester
+Jester description
+3
+6
+3
+0
+0
+12
+Executioner
+Executioner description
+3
+6
+2
+0
+0
+13
+Serial killer
+Serial killer description
+3
+2
+2
+0
+1
+14
+Sanat
+desc
+1
+3
+2
+0
+1
